@@ -1,0 +1,8 @@
+# LFTag marker metadata
+algorithm=LFTag
+size=4
+id=1736
+data_blocks=14
+bits=28
+side_length=30
+blocks=0,2,0,3,2,1,0,0,0,0,0,0,0,0
